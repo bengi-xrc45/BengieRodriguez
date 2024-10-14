@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  Bengie Rodriguez✨ </h1> 
+<h1 align="center">Hi! 👋 I am Bengi RJ✨ </h1> 
 
 <p align="left">
 <a href = "bengie.rodriguez30@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
