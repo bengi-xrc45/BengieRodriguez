@@ -19,7 +19,7 @@
 - :student: I’m currently learning `AndroidStudio`.
 - :nerd_face: Always `learning new things`.
 - :thinking: We can connect to `PlayStation` and play.
-- :boom: We can connect on `Chess.com`♟ to play some games.
+- :boom: We can connect on `Chess.com`♟ to play some games..
 - :boom: I play Basketball 🏀.
 <br>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
